@@ -13,3 +13,8 @@ def add_string(x, y):
 
 def rem_string(x, y):
 	return x - y
+
+def printafter():
+	print("after")
+
+
