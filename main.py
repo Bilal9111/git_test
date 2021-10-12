@@ -7,5 +7,5 @@ def divide(x,y):
 def printtofo():
 	print("tofo")
 
-def whilena():
+def whilena(): ## from main
 	print("whilena")
