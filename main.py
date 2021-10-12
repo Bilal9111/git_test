@@ -17,4 +17,6 @@ def rem_string(x, y):
 def printafter():
 	print("after")
 
+def extreme():
+	print("extreme")
 
