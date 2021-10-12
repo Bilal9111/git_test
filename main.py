@@ -10,3 +10,6 @@ def divide(x,y):
 
 def add_string(x, y):
 	return x + y
+
+def rem_string(x, y):
+	return x - y
