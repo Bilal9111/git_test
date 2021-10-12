@@ -6,3 +6,6 @@ def divide(x,y):
 
 def printtofo():
 	print("tofo")
+
+def whilena():
+	print("whilena")
