@@ -12,3 +12,6 @@ def whilena(): ## from main
 
 def barkdog():
 	print("woof")
+
+def howldog():
+	print("awoooo")
