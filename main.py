@@ -17,6 +17,7 @@ def barkdog():
 	print("woof")
 
 def howldog():
+<<<<<<< HEAD
 	print("awoooo")
 
 def meowcat():
@@ -24,3 +25,6 @@ def meowcat():
 
 def howlcat():
 	print("awoooo")
+=======
+	print("awoooo")
+>>>>>>> a86f4de (dog woof, index.html and howldog)
