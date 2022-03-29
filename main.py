@@ -4,6 +4,9 @@ def plus(x,y): # some comment 1
 def divide(x,y):
 	return x / y
 
+def mult(x,y):
+	return x * y
+
 def printtofo():
 	print("tofo")
 
