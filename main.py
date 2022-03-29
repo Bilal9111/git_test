@@ -15,3 +15,9 @@ def barkdog():
 
 def howldog():
 	print("awoooo")
+
+def meowcat():
+	print("meow")
+
+def howlcat():
+	print("awoooo")
