@@ -22,5 +22,8 @@ def howldog():
 def meowcat():
 	print("meow")
 
+<<<<<<< HEAD
 def howlcat():
 	print("awoooo")
+=======
+>>>>>>> 7633539 (meow cat)
