@@ -9,3 +9,6 @@ def printtofo():
 
 def whilena(): ## from main
 	print("whilena")
+
+def barkdog():
+	print("woof")
