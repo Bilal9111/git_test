@@ -19,3 +19,5 @@ def howldog():
 def meowcat():
 	print("meow")
 
+def howlcat():
+	print("awoooo")
