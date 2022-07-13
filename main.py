@@ -30,6 +30,5 @@ def print_funny():
 
 def print_morefunn():
     print("lol")
-
 def print_evenmorefunn():
     print("lol")
