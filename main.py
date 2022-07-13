@@ -27,3 +27,6 @@ def howlcat():
 
 def print_funny():
 	print("lol so funny")
+
+def print_morefunn():
+    print("lol")
