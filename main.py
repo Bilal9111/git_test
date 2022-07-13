@@ -24,3 +24,7 @@ def meowcat():
 
 def howlcat():
 	print("awoooo")
+	
+def print_funny():
+	print(2+2)
+	print("lol so funny")
